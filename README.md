@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">An aspiring swe and an interest in Machine Learning and Data Science</p>
+<p align="left">An aspiring swe with an interest in Machine Learning and Data Science</p>
 
 ###
 
