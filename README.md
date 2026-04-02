@@ -55,8 +55,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JojayD/count.svg?"  />
-</div>
 
 ###
